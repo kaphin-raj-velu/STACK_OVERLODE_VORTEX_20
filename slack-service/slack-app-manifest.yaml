@@ -1,0 +1,27 @@
+display_information:
+  name: Interview Audit Bot
+  description: "AI interview bias detector. Type /precheck [question] for instant BERT assessment."
+  background_color: "#080C10"
+features:
+  bot_user:
+    display_name: Interview Audit
+    always_online: true
+  slash_commands:
+    - command: /precheck
+      url: "https://YOUR_DOMAIN/api/slack/precheck"
+      description: "Analyze an interview question for bias"
+      usage_hint: "[your interview question]"
+      should_escape: false
+    - command: /audithelp
+      url: "https://YOUR_DOMAIN/api/slack/help"
+      description: "Get help with Interview Audit Bot"
+      should_escape: false
+oauth_config:
+  scopes:
+    bot:
+      - chat:write
+      - chat:write.public
+      - commands
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false

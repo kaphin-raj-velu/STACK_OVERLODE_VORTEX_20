@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+  mongo:
+    image: mongo:7
+    ports: ["27017:27017"]
+    volumes: [mongo_data:/data/db]
+  backend:
+    build: ./backend
+    ports: ["5000:5000"]
+    environment:
+      MONGO_URI: mongodb://mongo:27017/interview_ai
+      ML_SERVICE_URL: http://ml-service:8000
+    depends_on: [mongo, ml-service]
+  ml-service:
+    build: ./ml-service
+    ports: ["8000:8000"]
+  frontend:
+    build: ./frontend
+    ports: ["3000:80"]
+    depends_on: [backend]
+volumes:
+  mongo_data:

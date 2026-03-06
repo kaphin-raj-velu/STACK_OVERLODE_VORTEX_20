@@ -1,0 +1,108 @@
+question,label,category,domain
+What programming languages do you know?,Safe,,Software Engineering
+Explain the difference between REST and GraphQL.,Safe,,Software Engineering
+What is time complexity of binary search?,Safe,,Software Engineering
+Describe a challenging project you worked on.,Safe,,Software Engineering
+How do you handle merge conflicts in Git?,Safe,,Software Engineering
+What is the difference between SQL and NoSQL?,Safe,,Software Engineering
+Explain the concept of microservices.,Safe,,Software Engineering
+How do you ensure code quality in your projects?,Safe,,Software Engineering
+What design patterns have you used?,Safe,,Software Engineering
+Explain SOLID principles.,Safe,,Software Engineering
+How do you approach debugging a production issue?,Safe,,Software Engineering
+What is your experience with CI/CD pipelines?,Safe,,Software Engineering
+Describe how you would design a URL shortener.,Safe,,Software Engineering
+What is the difference between a stack and a queue?,Safe,,Software Engineering
+How does a hash table work?,Safe,,Software Engineering
+Explain the CAP theorem.,Safe,,Software Engineering
+What is dependency injection?,Safe,,Software Engineering
+How do you optimize a slow database query?,Safe,,Software Engineering
+What is a RESTful API and how do you design one?,Safe,,Software Engineering
+Explain the concept of containerization with Docker.,Safe,,Software Engineering
+What is overfitting in machine learning?,Safe,,Data Science / AI
+Explain gradient descent.,Safe,,Data Science / AI
+What is the bias-variance tradeoff?,Safe,,Data Science / AI
+How do you handle missing data in a dataset?,Safe,,Data Science / AI
+What is cross-validation and why is it important?,Safe,,Data Science / AI
+Explain the difference between supervised and unsupervised learning.,Safe,,Data Science / AI
+What is a confusion matrix?,Safe,,Data Science / AI
+How do you evaluate a classification model?,Safe,,Data Science / AI
+What is the purpose of regularization in machine learning?,Safe,,Data Science / AI
+Explain the concept of transfer learning.,Safe,,Data Science / AI
+How does a random forest work?,Safe,,Data Science / AI
+What is PCA and when would you use it?,Safe,,Data Science / AI
+Explain the attention mechanism in transformers.,Safe,,Data Science / AI
+What metrics do you use to evaluate an NLP model?,Safe,,Data Science / AI
+What is feature engineering?,Safe,,Data Science / AI
+How do you handle class imbalance in a dataset?,Safe,,Data Science / AI
+Explain the difference between precision and recall.,Safe,,Data Science / AI
+What is a neural network and how does backpropagation work?,Safe,,Data Science / AI
+How would you approach a time series forecasting problem?,Safe,,Data Science / AI
+Explain the concept of net present value.,Safe,,Finance
+What is the difference between EBITDA and net income?,Safe,,Finance
+How do you value a company using discounted cash flow?,Safe,,Finance
+What is working capital and why does it matter?,Safe,,Finance
+Explain the difference between equity and debt financing.,Safe,,Finance
+What are the key components of a balance sheet?,Safe,,Finance
+How do you calculate return on investment?,Safe,,Finance
+What is a leveraged buyout?,Safe,,Finance
+What strategies would you use to increase brand engagement?,Safe,,Marketing
+How do you measure the success of a marketing campaign?,Safe,,Marketing
+What is your experience with SEO and content marketing?,Safe,,Marketing
+Describe your approach to social media strategy.,Safe,,Marketing
+How do you perform customer segmentation?,Safe,,Marketing
+Tell me about a time you resolved a conflict with a coworker.,Safe,,General HR
+How do you prioritize tasks when managing multiple deadlines?,Safe,,General HR
+Where do you see yourself in five years?,Safe,,General HR
+What are your strengths and weaknesses?,Safe,,General HR
+Describe your management style.,Safe,,General HR
+How do you handle constructive criticism?,Safe,,General HR
+What motivates you in the workplace?,Safe,,General HR
+What is your experience with agile methodologies?,Safe,,Software Engineering
+How do you approach product roadmap prioritization?,Safe,,Product Management
+What is a product-market fit and how do you measure it?,Safe,,Product Management
+Are you married?,Flagged,Marital Status,General HR
+Are you single?,Flagged,Marital Status,General HR
+What is your relationship status?,Flagged,Marital Status,General HR
+Do you have a spouse?,Flagged,Marital Status,General HR
+Are you engaged?,Flagged,Marital Status,General HR
+Are you planning to get married soon?,Flagged,Marital Status,General HR
+Does your husband or wife work?,Flagged,Marital Status,General HR
+Do you plan to have children soon?,Flagged,Pregnancy / Family Planning,General HR
+Are you pregnant?,Flagged,Pregnancy / Family Planning,General HR
+Are you planning to start a family?,Flagged,Pregnancy / Family Planning,General HR
+Do you have children?,Flagged,Pregnancy / Family Planning,General HR
+How many kids do you have?,Flagged,Pregnancy / Family Planning,General HR
+Do you have childcare arrangements?,Flagged,Pregnancy / Family Planning,General HR
+How old are you?,Flagged,Age Discrimination,General HR
+What year were you born?,Flagged,Age Discrimination,General HR
+When did you graduate from high school?,Flagged,Age Discrimination,General HR
+Are you close to retirement age?,Flagged,Age Discrimination,General HR
+What is your date of birth?,Flagged,Age Discrimination,General HR
+What religion do you follow?,Flagged,Religion Related,General HR
+Are you Christian?,Flagged,Religion Related,General HR
+Do you attend church regularly?,Flagged,Religion Related,General HR
+What are your religious beliefs?,Flagged,Religion Related,General HR
+Do you observe religious holidays?,Flagged,Religion Related,General HR
+Do you pray during the workday?,Flagged,Religion Related,General HR
+Which political party do you support?,Flagged,Political Views,General HR
+Who did you vote for in the last election?,Flagged,Political Views,General HR
+What are your political beliefs?,Flagged,Political Views,General HR
+Do you consider yourself left-wing or right-wing?,Flagged,Political Views,General HR
+What is your nationality?,Flagged,Nationality or Race,General HR
+Where are you originally from?,Flagged,Nationality or Race,General HR
+Where were you born?,Flagged,Nationality or Race,General HR
+What is your ethnicity?,Flagged,Nationality or Race,General HR
+Is English your first language?,Flagged,Nationality or Race,General HR
+Do you have any disabilities?,Flagged,Disability Related,General HR
+Do you have any physical limitations?,Flagged,Disability Related,General HR
+Are you on any medication?,Flagged,Disability Related,General HR
+Do you have any mental health conditions?,Flagged,Disability Related,General HR
+Do you have any chronic health issues?,Flagged,Disability Related,General HR
+What is your sexual orientation?,Flagged,Gender Discrimination,General HR
+Are you gay or straight?,Flagged,Gender Discrimination,General HR
+Are you transgender?,Flagged,Gender Discrimination,General HR
+Do you drink alcohol?,Flagged,Personal Life,General HR
+Do you smoke?,Flagged,Personal Life,General HR
+Have you ever been arrested?,Flagged,Personal Life,General HR
+What is your net worth?,Flagged,Personal Life,General HR
